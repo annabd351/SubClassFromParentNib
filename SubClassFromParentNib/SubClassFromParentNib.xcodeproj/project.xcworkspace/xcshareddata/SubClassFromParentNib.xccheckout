@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EDF59C68-FF38-4627-ABC9-513BE15060EE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SubClassFromParentNib</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52970603F7D2E5AA7E3F761FFBE2D49630ADCAEF</key>
+		<string>https://github.com/annabd351/SubClassFromParentNib.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SubClassFromParentNib/SubClassFromParentNib.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52970603F7D2E5AA7E3F761FFBE2D49630ADCAEF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/annabd351/SubClassFromParentNib.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52970603F7D2E5AA7E3F761FFBE2D49630ADCAEF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52970603F7D2E5AA7E3F761FFBE2D49630ADCAEF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SubClassFromParentNib</string>
+		</dict>
+	</array>
+</dict>
+</plist>
